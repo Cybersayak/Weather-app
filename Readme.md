@@ -40,7 +40,6 @@ To run this project locally, follow these steps:
 ## Technologies Used
 
 - HTML, CSS, JavaScript
-- [React.js](https://reactjs.org/)
 - OpenWeatherMap API (or any other weather API used)
 
 ## Contributing
